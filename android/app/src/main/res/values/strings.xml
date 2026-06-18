@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DayLore</string>
+    <string name="title_activity_main">DayLore</string>
+    <string name="package_name">com.daylore.app</string>
+    <string name="custom_url_scheme">com.daylore.app</string>
+</resources>
